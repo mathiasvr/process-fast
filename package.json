@@ -1,6 +1,6 @@
 {
   "name": "process-fast",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Fast node `require('process')` for modern browsers",
   "license": "MIT",
   "author": "Mathias Rasmussen <mathiasvr@gmail.com>",
